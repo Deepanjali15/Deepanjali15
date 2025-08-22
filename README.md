@@ -63,8 +63,11 @@
 ---
 
 ## 📫 Reach Me
-- ✉️ **Email:** [singh05deepanjali@gmail.com](mailto:singh05deepanjali@gmail.com)  
-- 🌐 **GitHub:** [@Deepanjali15](https://github.com/Deepanjali15)
+p align="left">
+  <a href="https://www.linkedin.com/in/deepanjali-singh-48a060289/">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepanjali%20Singh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>- 🌐 **GitHub:** [@Deepanjali15](https://github.com/Deepanjali15)
 
 ---
 
