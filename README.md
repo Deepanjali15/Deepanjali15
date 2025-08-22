@@ -43,13 +43,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepanjali15&show_icons=true&theme=default&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanjali15&layout=compact" />
-</p>
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Deepanjali15" />
-</p>
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Deepanjali15&margin-w=10&margin-h=10" />
 </p>
 
@@ -63,11 +56,14 @@
 ---
 
 ## 📫 Reach Me
-p align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/deepanjali-singh-48a060289/">
     <img src="https://img.shields.io/badge/LinkedIn-Deepanjali%20Singh-blue?style=for-the-badge&logo=linkedin" />
   </a>
-</p>- 🌐 **GitHub:** [@Deepanjali15](https://github.com/Deepanjali15)
+  <a href="https://github.com/Deepanjali15">
+    <img src="https://img.shields.io/badge/GitHub-Deepanjali15-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
