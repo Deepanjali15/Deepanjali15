@@ -14,7 +14,7 @@
 ---
 
 ## ✨ About Me
-- 🎓 3rd year B.Tech CSE student at **SRMIST, Chennai**
+- 🎓 4th year B.Tech CSE student at **SRMIST, Chennai**
 - 💡 Strong foundation in **Java, Python, MySQL, HTML/CSS, and DSA**
 - 🛠️ Exploring **Android Development** & **Data Science**
 - 📚 Always learning and experimenting with new technologies
